@@ -1,1 +1,2 @@
 this is new feature branch sample file
+this is second line in feature file
