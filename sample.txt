@@ -1,0 +1,3 @@
+this is sample file in third project
+##tell interview in upload plugin job
+##all .hpi files are jenkins plug in files
