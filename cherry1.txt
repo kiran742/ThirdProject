@@ -1,0 +1,4 @@
+this is cherry1 file jenkins mama
+jenkins Helloworld job
+jenkins print date job
+jenins ipconfig job
