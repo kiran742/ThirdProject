@@ -2,4 +2,7 @@ this is rebase fie
 #git rebase feature
 #git rebase master
 #git remote set-url origin git@github.com:kiran742/hello-world-java.git
-
+#git status
+#git add .
+#git commit -m "message"
+#git push origin master
