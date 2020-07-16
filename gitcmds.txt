@@ -1,0 +1,501 @@
+   96  git status
+   97  git push origin master
+   98  git config --list
+   99  git config user.email "kirandevops567k8@gmail.com"
+  100  git config user.name "kirandevops567"
+  101  git config --list
+  102  l
+  103  ls -al
+  104  git push origin master
+  105  git remote -v
+  106  git remote add origin https://github.com/kirandevops567/SecondProject.git
+  107  g
+  108  git push origin master
+  109  git push origin master -f
+  110  git log
+  111  git push -u origin master
+  112  git remote -v
+  113  git remote add origin https://github.com/kirandevops567/SecondProject.git
+  114  git remote -v
+  115  git push origin master
+  116  git push
+  117  git push --set-upstream
+  118  git push
+  119  git push origin master
+  120  history
+  121  ls -al
+  122  git remote -v
+  123  git init
+  124  git status
+  125  touch sample2.txt
+  126  git status
+  127  git add .
+  128  git status
+  129  git commit -m "sample2 file"
+  130  git status
+  131  git push origin master
+  132  ssh -T git@github.com
+  133  ls -al
+  134  ls -al
+  135  git push origin master
+  136  git rm SecondProject
+  137  ls -al
+  138  cd devopsproject
+  139  ls -al
+  140  cat sample.txt
+  141  vi sample.txt
+  142  git status
+  143  git add .
+  144  git status
+  145  git commit -m "second line added"
+  146  git status
+  147  git push origin master
+  148  git remote add origin https://github.com/kirandevops567/devopsproject.git/
+  149  git remote -v
+  150  git push
+  151  ls -al
+  152  cat sample.txt
+  153  git push origin master
+  154  cd ..
+  155  cd SecondProject
+  156  git init
+  157  ls -al
+  158  cat > sample.txt
+  159  ls -al
+  160  git status
+  161  git add .
+  162  git push
+  163  git remote -v
+  164  git remote add origin https://github.com/kirandevops567/SecondProject.git
+  165  git remote -v
+  166  git push origin master
+  167  ls -al
+  168  git push -u origin master
+  169  git push origin master -f
+  170  git push origin master --force
+  171  cd FirstProject/
+  172  ls -al
+  173  vi sample.txt
+  174  git status
+  175  git log
+  176  cat > test.txt
+  177  ls -al
+  178  vi test.txt
+  179  git log
+  180  git status
+  181  git log
+  182  git add .
+  183  git log
+  184  git commit -m "added files in master"
+  185  git log
+  186  git add .
+  187  git loggigghnnkhhnjkjjjjk
+  188  eeeeeeeeggggggggggggg
+  189  g
+  190  gtttt log
+  191  cd FirstProject/
+  192  ls -al
+  193  cat test.txt
+  194  git log
+  195  g
+  196  gls -al
+  197  jljojogit log
+  198  ext
+  199  cd FirstProject/
+  200  ls -al
+  201  git push
+  202  git status
+  203  git log
+  204  hhkl
+  205  hjkffggggggg
+  206  cd SecondProject/
+  207  ls -al
+  208  cd ..
+  209  cd SecondProject/
+  210  ls -al
+  211  git status
+  212  git log
+  213  git add .
+  214  git commit -m "second pjt sample file"
+  215  git push
+  216  git remote -v
+  217  git push
+  218  git init
+  219  git remote -v
+  220  git remote add origin https://github.com/kiran742/SecondProject.git
+  221  git remote -v
+  222  git -config --list
+  223  git config --list
+  224  git config --global --edit
+  225  git config --global --list
+  226  git remote -v
+  227  git remote add origin https://github.com/kiran742/SecondProject.git
+  228  cd ..
+  229  cd FirstProject/
+  230  ls -al
+  231  git log
+  232  ls -al
+  233  cd ..
+  234  ls -al
+  235  cd SecondProject/
+  236  git init
+  237  ls -al
+  238  git remote -v
+  239  cat > sample.txt
+  240  cat sample.txt
+  241  git status
+  242  git add sample.txt
+  243  git commit -m "second prjt sample file"
+  244  git push
+  245  git remote add origin https://github.com/kiran742/SecondProject.git
+  246  git remote -v
+  247  git push
+  248  git log
+  249  git push origin master
+  250  ls -al
+  251  git branches
+  252  git remote -v
+  253  git status
+  254  git add .
+  255  git commit -m "added remote urls" -a
+  256  git push
+  257  git push origin master
+  258  git remote -v
+  259  git remote set-url git@github.com:kiran742/SecondProject.git
+  260  git remote -v
+  261  git status
+  262  git add .
+  263  git commit -m "modified remote url" -a
+  264  git push
+  265  git remote -v
+  266  git remote set-url origin git@github.com:kiran742/SecondProject.git
+  267  git remote -v
+  268  git push
+  269  git push origin master
+  270  git remote -v
+  271  git remote add origin https://github.com/kiran742/SecondProject.git
+  272  git remote -v
+  273  git remote set-url origin https://github.com/kiran742/SecondProject.git
+  274  git remote -v
+  275  git push origin master
+  276  git log
+  277  ls -al
+  278  vi sample.txt
+  279  git status
+  280  git add .
+  281  git commit -m "developer2 commit" -a
+  282  git push origin master
+  283  git pull origin master
+  284  ls -al
+  285  cat sample.txt
+  286  git log0
+  287  git status
+  288  vi sample.txt
+  289  vi sample.txt
+  290  git status
+  291  git add .
+  292  git status
+  293  git commit -m "developer2 merge conflicts resolved"
+  294  git push origin master
+  295  ls -al
+  296  cat sample.txt
+  297  vi sample.txt
+  298  git status
+  299  git add .
+  300  git commit -m "commit for new line aft test file created" -a
+  301  git push origin master
+  302  git push origin master
+  303  git pull origin master
+  304  ls -al
+  305  git status
+  306  cat sample.txt
+  307  git status
+  308  exit
+  309  mkdir FirstProject
+  310  cd FirstProject/
+  311  git init
+  312  ls a-l
+  313  ls -al
+  314  cat > sample.txt
+  315  ls -al
+  316  git remote -v
+  317  git remote add origin https://github.com/kiran742/FirstProject.git
+  318  git remote -v
+  319  ls -al
+  320  git pull origin master
+  321  ls -al
+  322  cat sample.txt
+  323  git fetch
+  324  ls -al
+  325  git fetch origin master
+  326  ls -al
+  327  git clone https://github.com/kiran742/FirstProject.git
+  328  ls -al
+  329  git rm FirstProject
+  330  cd ..
+  331  git clone https://github.com/kiran742/FirstProject.git
+  332  cd FirstProject/
+  333  ls -al
+  334  git log
+  335  cat sample.txt
+  336  vi sample.txt
+  337  git status
+  338  git add .
+  339  git commit -m "another drive second ln added"
+  340  git push
+  341  cat sample.txt
+  342  git log
+  343  git branch
+  344   git branch -al
+  345   git branch feature
+  346   git branch -al
+  347  git log
+  348  vi test.txt
+  349  git status
+  350  git add .
+  351  git commit -m "second line added test file"
+  352  git log
+  353  git branch
+  354  git checkout feature
+  355  ls -al
+  356  cat test.txt
+  357  git cherry-pick 243afe0b
+  358  git status
+  359  ls -al
+  360  cat test.txt
+  361  git checkout master
+  362  cat test
+  363  cat test.txt
+  364  git log
+  365  ls -al
+  366  git checkoutfeature
+  367  git checkout feature
+  368  vi feature1.txt
+  369  git status
+  370  git add .
+  371  git commit -m "adding feature file" -a
+  372  git checkout master
+  373  ls -al
+  374  git checkout feature
+  375  git log
+  376  git push origin master
+  377  git log
+  378  git branch
+  379  git push origin feature
+  380  ls -al
+  381  git checkout master
+  382  ls -al
+  383  git pull origin master
+  384  ls -al
+  385  git log
+  386  git checkout feture
+  387  git checkout feature
+  388  ls a-l
+  389  ls -al
+  390  vi feture2.txt
+  391  git status
+  392  git add .
+  393  git commit -m "second text file added in feature"
+  394  git push origin feature
+  395  git checkout master
+  396  ls -al
+  397  git checkout feature
+  398  git log
+  399  git branch
+  400  git checkout master
+  401  git pull origin master
+  402  git branch
+  403  git log
+  404  git merge feature
+  405  git log
+  406  git status
+  407  ls -al
+  408  git push origin master
+  409  git branch
+  410  git branch -d feature
+  411  git branch
+  412  git branch hotfix
+  413  git branch
+  414  git checkout hotfix
+  415  vi example.txt
+  416  git status
+  417  git ad .
+  418  git add .
+  419  git commit -m "hot fix branch sample file"
+  420  git push origin hotifx
+  421  git push origin hotfix
+  422  git branch
+  423  git checkout master
+  424  git push origin -d feature
+  425  git branch
+  426  git branch
+  427  git checkout Release
+  428  cd ..
+  429  cd Release
+  430  cd master
+  431  cd FirstProject/
+  432  git branch
+  433  ls -al
+  434  git pull origin master
+  435  git branch
+  436  git checkout Realease
+  437  git branch
+  438  git pull origin Realease
+  439  git branch
+  440  git fetch
+  441  git branch
+  442  git checkout origin/Release
+  443  git branch
+  444  ls -al
+  445  git checkout Realease
+  446  git branch
+  447  git checkout master
+  448  git branch -d 5230bc6
+  449  git branch
+  450  git pull origin Release
+  451  git branch
+  452  git branch Release
+  453  git branch
+  454  git checkout Release
+  455  ls -al
+  456  git branch -d Release
+  457  git checkout master
+  458  git branch
+  459  git branch -d Relese
+  460  git branch -d Release
+  461  git branch
+  462  git pull origin Release
+  463  git branch
+  464  git fetch origin Release
+  465  git branch
+  466  cd ..
+  467  git pull origin Release
+  468  git clone https://github.com/kiran742/FirstProject.git
+  469  cd FirstProject/
+  470  git checkput origin/Release
+  471  git checkout origin/Release
+  472  git branch
+  473  git log
+  474  ls -al
+  475  git branch
+  476  git branch -d Release
+  477  git checkout hotfix
+  478  git branch -d Release
+  479  git checkout master
+  480  git branch -d Release
+  481  git log --online --graph
+  482  git branch
+  483  git fetch
+  484  git checkout -t origin/Release
+  485  ls -al
+  486  git branch
+  487  git log
+  488  exit
+  489  ssh -i "mydevops.pem" ubuntu@ec2-3-15-148-238.us-east-2.compute.amazonaws.com
+  490  exit
+  491  ssh -i "mydevops.pem" ubuntu@ec2-3-15-7-14.us-east-2.compute.amazonaws.com
+  492  exit
+  493  ssh -i "mydevops.pem" ubuntu@ec2-18-221-5-54.us-east-2.compute.amazonaws.com
+  494  git log
+  495  ssh -i "mydevops.pem" ubuntu@ec2-18-221-5-54.us-east-2.compute.amazonaws.com
+  496  c FirstProject/
+  497  ssh -i "mydevops.pem" ubuntu@ec2-52-15-124-216.us-east-2.compute.amazonaws.com
+  498  exzit
+  499  exit
+  500  git clone https://github.com/kiran742/ThirdProject.git
+  501  ssh -i "mydevops.pem" ubuntu@ec2-18-222-127-133.us-east-2.compute.amazonaws.com
+  502  ls -ltr
+  503  cd ThirdProject/
+  504  ls -alrt
+  505  git branch
+  506  vi rebasefile.txt
+  507  git status
+  508  git add .
+  509  git commit -m "rebase example"
+  510  git push origin master
+  511  git log
+  512  vi rebasefile.txt
+  513  git status
+  514  git add .
+  515  git commit -m "rebase example log1"
+  516  git push origin master
+  517  git remote -v
+  518  git branch
+  519  ls -al
+  520  git branch test
+  521  git branch
+  522  git checkout test
+  523  ls -al
+  524  vi rebasefile.txt
+  525  git status
+  526  git add .
+  527  git commit -m "test rebase example log2"
+  528  git push origin test
+  529  vi rebasefile.txt `
+  530  vi rebasefile.txt
+  531  git status
+  532  git add .
+  533  git commit -m "test rebase example log3"
+  534  git push origin test
+  535  git log
+  536  git checkout master
+  537  vi rebasefile.txt
+  538  git add .
+  539  git commit -m "rebase exmple log5"
+  540  git push origin master
+  541  git log
+  542  git checkoout test
+  543  git log
+  544  git checkout test
+  545  git log
+  546  git rebase master
+  547  ls -al
+  548  git log
+  549  git branch
+  550  git checkout master
+  551  git rebase --skip
+  552  git rebase --abort
+  553  git log
+  554  git rebase master
+  555  git branch
+  556  vi rebasefile.txt
+  557  git rebase --skip
+  558  git branch
+  559  git rebase --skip
+  560  git braqnch
+  561  git branch
+  562  git log
+  563  git checkout master
+  564  git log
+  565  git rebase test
+  566  git log
+  567  git checkout test
+  568  git log
+  569  git chekout master
+  570  git checkout master
+  571  git push origin masgter
+  572  git push origin master
+  573  git rebase test
+  574  git chekoout -b test
+  575  git checkout test
+  576  ls -al
+  577  vi rebasefile1.txt
+  578  git add .
+  579  git commit -m "test t1"
+  580  git checkout master
+  581  git log
+  582  git rebase test
+  583  git log
+  584  vi rebasefile1.txt
+  585  git add .
+  586  git commit -m "master m1"
+  587  git checkout test
+  588  git log
+  589  git rebase master
+  590  cat rebasefile1.txt
+  591  git log
+  592  git checkout master
+  593  git rebase test
+  594  git log
+  595  history
+:wq!
